@@ -58,7 +58,7 @@ yes.addEventListener("click", () => {
   vid.style.display = "block";
   gif.src = "resources/idc.gif";// gif credit: https://tenor.com/view/peach-cat-kiss-animated-love-mwah-gif-25743978
   text.innerHTML = "YEHEEEEEYYY!! LETS GOOOOO😘";
-  yes.innerHTML = '<a href="https://www.instagram.com/loop.codes/">Plan for our date</a>';// inside the " " put your social media profile link
+    yes.innerHTML = '<a href="https://www.facebook.com/chrsortiz">Plano na tayo!</a>';
   yes.style.height = "90%";
   yes.style.width = "96%";
   no.style.display = "none";
